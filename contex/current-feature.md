@@ -14,6 +14,6 @@
 
 <!-- Any extra notes -->
 
-## Histoy
+## History
 
-<!-- Keep this updated. Earliest to latest -->
+- Initial Next.js 16 and Tailwind CSS v4 setup. Added project context and Gemini/Claude rules.
